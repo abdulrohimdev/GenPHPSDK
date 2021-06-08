@@ -1,0 +1,18 @@
+{
+    "name": "genius/php-push-sdk",
+    "description": "Push SDK PHP Client",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "abdul rohim",
+            "email": "abdulrohim@dp.dharmap.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "GenPHPSDK\\": "src/"
+        }
+    }
+}
